@@ -9,13 +9,15 @@ I’m thrilled to share that I have started my Pharmacovigilance Internship with
 Pharmacovigilance plays a critical role in ensuring drug safety, monitoring adverse drug reactions, and protecting patient health. As a Life Science graduate, stepping into this field allows me to bridge my academic knowledge with real-world healthcare impact.
 
 I’m looking forward to gaining hands-on experience in:
-🔬 Drug safety monitoring
-📊 Case processing & data analysis
-🧠 Understanding regulatory frameworks
-💊 Contributing to safer therapeutics
+* 🔬 Drug safety monitoring
+* 📊 Case processing & data analysis
+* 🧠 Understanding regulatory frameworks
+* 💊 Contributing to safer therapeutics
+  
 Grateful for this opportunity to learn, grow, and build a career in clinical research and pharmacovigilance.
 
 Let’s connect and grow together in the healthcare domain!
+
 
 #Pharmacovigilance #DrugSafety #ClinicalResearch #LifeSciences #Biotechnology #HealthcareCareers #InternshipJourney #Freshers #CareerGrowth #Learning #MedTech #PharmaIndustry #FutureReady #Networking #LinkedInGrowth #MSME
 
@@ -552,6 +554,166 @@ Accurate classification of ADRs helps in:
 ----------------------------------------------------------------------------------------------------
 
 ## ID Task 5
+
+# Individual Case Safety Report (ICSR) – Pharmacovigilance Assessment
+
+##  Objective
+
+Perform a **complete pharmacovigilance assessment** on a clinical case, including:
+
+* ADR Identification
+* Case Documentation (ICSR format)
+* Causality Assessment
+* Severity & Seriousness Classification
+
+ Simulates the role of a **Drug Safety Associate**
+
+
+## Case Scenario
+
+A 35-year-old male patient was prescribed **Amoxicillin (500 mg, oral, TID)** for a bacterial infection. After 2 days of treatment, he developed **generalized urticaria (hives), itching, and mild facial swelling**. The drug was discontinued, and the patient was treated with antihistamines. Symptoms resolved within 3 days.
+
+
+#  ICSR Report (Structured)
+
+##  1. Patient Information
+
+* Initials: R.K
+* Age: 35 years
+* Gender: Male
+* Weight: 70 kg
+* Medical History: No chronic illness
+* Allergy History: Not previously known
+
+---
+
+## 2. Suspected Drug Details
+
+| Drug Name   | Dose   | Route | Frequency | Start Date | Stop Date | Indication          |
+| ----------- | ------ | ----- | --------- | ---------- | --------- | ------------------- |
+| Amoxicillin | 500 mg | Oral  | TID       | Day 0      | Day 2     | Bacterial infection |
+
+---
+
+##  3. Adverse Event Details
+
+* Event Term: Urticaria (Hives) with itching
+* Onset: Day 2
+* Description: Raised, itchy red welts on skin with mild facial swelling
+* Outcome: Recovered
+* Seriousness:  Non-serious (no hospitalization)
+
+
+##  4. Timeline
+
+| Event            | Date  |
+| ---------------- | ----- |
+| Drug Started     | Day 0 |
+| Reaction Started | Day 2 |
+| Drug Stopped     | Day 2 |
+| Recovery         | Day 5 |
+
+
+##  5. Dechallenge / Rechallenge
+
+* Dechallenge: Positive (symptoms improved after stopping drug)
+* Rechallenge: Not performed (risk of allergic reaction)
+
+
+
+##  6. Concomitant Medications
+
+* Paracetamol (for fever)
+
+
+##  7. Relevant Investigations
+
+* No lab abnormalities
+* Diagnosis based on clinical presentation
+
+
+##  8. Causality Assessment
+
+### 8.1.   WHO-UMC Scale
+
+* **Probable**
+
+  * Reasonable time relationship
+  * Known allergic reaction
+  * Positive dechallenge
+  * No alternative explanation
+
+
+### 8.2. Naranjo Algorithm
+
+| Criteria                        | Score |
+| ------------------------------- | ----- |
+| Previous conclusive reports     | +1    |
+| Event after drug administration | +2    |
+| Improvement after withdrawal    | +1    |
+| Rechallenge not done            | 0     |
+| Alternative causes ruled out    | +2    |
+| **Total Score**                 | **6** |
+
+ **Interpretation: Probable ADR**
+
+
+##  9. Severity & Seriousness
+
+* Severity:  Moderate
+* Seriousness:  Non-serious
+* Expectedness: Expected (known hypersensitivity reaction)
+
+
+##  10. Suspected Drug
+
+* Drug Name: Amoxicillin
+* Justification:
+
+  * Strong temporal association
+  * Known beta-lactam hypersensitivity reaction
+  * Symptom resolution after discontinuation
+
+
+## 11. Management
+
+* Drug discontinued 
+* Antihistamines administered 
+* Alternative antibiotic considered 
+
+
+## 12. Final Case Classification
+
+* **Causality:** Probable
+* **Severity:** Moderate
+* **Seriousness:** Non-serious
+* **Expectedness:** Expected
+
+##  13. Conclusion
+
+This case represents a **Probable ADR to Amoxicillin**, characterized by:
+
+* Hypersensitivity reaction (urticaria)
+* Clear temporal relationship
+* Positive dechallenge
+* No alternative causes
+  
+
+##  14. Regulatory Relevance
+
+* Reportable in pharmacovigilance database
+* Important for signal detection of allergic reactions
+* Contributes to patient safety monitoring
+
+
+----------------------------------------------------------------------------------------------------
+                                         End of Document
+
+
+
+
+---
+
 
 
 
