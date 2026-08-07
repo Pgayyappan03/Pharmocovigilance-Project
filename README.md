@@ -21,17 +21,9 @@ Let’s connect and grow together in the healthcare domain!
 
 #Pharmacovigilance #DrugSafety #ClinicalResearch #LifeSciences #Biotechnology #HealthcareCareers #InternshipJourney #Freshers #CareerGrowth #Learning #MedTech #PharmaIndustry #FutureReady #Networking #LinkedInGrowth #MSME
 
+<img width="1080" height="1532" alt="Offer Letter Pharmocovigilance" src="https://github.com/user-attachments/assets/dfaa808d-dd59-49d6-93b9-4c7965ee009f" />
 
-
-
-
-
-
-
-
-
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## IDtask 1
