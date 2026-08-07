@@ -1,4 +1,37 @@
-# Pharmocovigilance-Project
+# Pharmocovigilance-Projects
+
+## ID TASK-LINKEDIN
+
+🚀 Excited to Begin My Pharmacovigilance Journey!
+
+I’m thrilled to share that I have started my Pharmacovigilance Internship with VirtualWorks Lab by Emogi
+
+Pharmacovigilance plays a critical role in ensuring drug safety, monitoring adverse drug reactions, and protecting patient health. As a Life Science graduate, stepping into this field allows me to bridge my academic knowledge with real-world healthcare impact.
+
+I’m looking forward to gaining hands-on experience in:
+🔬 Drug safety monitoring
+📊 Case processing & data analysis
+🧠 Understanding regulatory frameworks
+💊 Contributing to safer therapeutics
+Grateful for this opportunity to learn, grow, and build a career in clinical research and pharmacovigilance.
+
+Let’s connect and grow together in the healthcare domain!
+
+#Pharmacovigilance #DrugSafety #ClinicalResearch #LifeSciences #Biotechnology #HealthcareCareers #InternshipJourney #Freshers #CareerGrowth #Learning #MedTech #PharmaIndustry #FutureReady #Networking #LinkedInGrowth #MSME
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## IDtask 1
 #  ADR Case Analysis (Adverse Drug Reaction)
 
@@ -10,7 +43,6 @@ Analyse patient case scenarios to identify potential **Adverse Drug Reactions (A
 * Medication history
 * Timeline
 
----
 
 ## ADR Analysis Workflow
 
@@ -21,7 +53,6 @@ Analyse patient case scenarios to identify potential **Adverse Drug Reactions (A
 * Medical History: Multiple Myeloma
 * Diagnosis: Plasma cell malignancy
 
----
 
 ### 2.  Medication History
 
@@ -38,7 +69,7 @@ Analyse patient case scenarios to identify potential **Adverse Drug Reactions (A
 * Severity: Moderate
 * Organ System: Nervous system (Peripheral neuropathy)
 
----
+
 
 ### 4. Timeline
 
@@ -49,7 +80,6 @@ Analyse patient case scenarios to identify potential **Adverse Drug Reactions (A
 | Drug Stopped      |Day 20|
 | Symptoms Resolved |Day 35|
 
----
 
 ### 5.  Causality Check
 
@@ -58,7 +88,6 @@ Analyse patient case scenarios to identify potential **Adverse Drug Reactions (A
 * Dechallenge (symptoms improved after stopping)
 * Rechallenge  (not performed due to risk)
 
----
 
 ### 6. Differential Diagnosis
 
@@ -66,7 +95,6 @@ Disease progression
 Vitamin deficiency 
 Other drugs 
 
----
 
 ### 7. Causality Assessment (WHO-UMC)
 
@@ -74,7 +102,6 @@ Probable
 
 Reason: Reasonable time relationship + known ADR + positive dechallenge
 
----
 
 ### 8. Suspected Drug
 
@@ -84,13 +111,12 @@ Reason: Reasonable time relationship + known ADR + positive dechallenge
 * Well-documented ADR (peripheral neuropathy)
 * Symptom improvement after withdrawal
   
----
+
 
 ### 9.  Severity
 
 * Moderate (Affected quality of life but not life-threatening)
 
----
 
 ### 10.  Management
 
@@ -111,14 +137,14 @@ Detecting drug-related neurological toxicity
 Preventing long-term complications
 Strengthening pharmacovigilance systems
 
----
 
 ## 13. Tools
 
 * WHO-UMC Scale
 * Naranjo Algorithm
 
----
+----------------------------------------------------------------------------------------------------
+
 
 ## ID Task 2
 
@@ -223,6 +249,7 @@ This structured ADR documentation highlights the importance of:
 * Early detection of drug-related adverse effects
 * Accurate reporting in pharmacovigilance systems
 * Ensuring patient safety in clinical practice
+----------------------------------------------------------------------------------------------------
 
 
 ## ID Task 3
@@ -233,13 +260,11 @@ This structured ADR documentation highlights the importance of:
 
 Evaluate the relationship between a drug and an adverse reaction using **standard causality assessment methods**. Analyze the case and classify the reaction as **Certain, Probable, or Possible**.
 
----
 
 ## 2. Case Scenario
 
 A 28-year-old female patient was prescribed **Amoxicillin (500 mg, oral, TID)** for a respiratory tract infection. After **3 days**, she developed a **generalized itchy skin rash (maculopapular rash)**. The medication was discontinued, and symptoms resolved within 4 days.
 
----
 
 ## 3. Patient Details
 
@@ -249,7 +274,6 @@ A 28-year-old female patient was prescribed **Amoxicillin (500 mg, oral, TID)** 
 * Allergy History: Not known
 * Diagnosis: Respiratory tract infection
 
----
 
 ## 4. Drug Information
 
@@ -261,7 +285,6 @@ A 28-year-old female patient was prescribed **Amoxicillin (500 mg, oral, TID)** 
 * Start Date: Day 0
 * Stop Date: Day 3
 
----
 
 ## 5. Adverse Reaction
 
@@ -270,7 +293,6 @@ A 28-year-old female patient was prescribed **Amoxicillin (500 mg, oral, TID)** 
 * Severity: Mild to Moderate
 * Outcome: Recovered after drug withdrawal
 
----
 
 ## 6. Timeline
 
@@ -281,7 +303,6 @@ A 28-year-old female patient was prescribed **Amoxicillin (500 mg, oral, TID)** 
 | Drug Stopped     | Day 3 |
 | Recovery         | Day 7 |
 
----
 
 ## 7. Causality Assessment Criteria
 
@@ -305,7 +326,6 @@ A 28-year-old female patient was prescribed **Amoxicillin (500 mg, oral, TID)** 
 
 * No other medications or infections explaining rash
 
----
 
 ## 8. WHO-UMC Causality Assessment
 
@@ -316,7 +336,6 @@ A 28-year-old female patient was prescribed **Amoxicillin (500 mg, oral, TID)** 
   * Positive dechallenge
   * No alternative explanation
 
----
 
 ## 9. Naranjo Algorithm Score
 
@@ -331,28 +350,22 @@ A 28-year-old female patient was prescribed **Amoxicillin (500 mg, oral, TID)** 
 
  **Interpretation: Probable ADR**
 
----
 
 ## 10. Final Classification
 
-* **Causality Category:** ✅ **Probable**
+* **Causality Category:** **Probable**
 * **Suspected Drug:** Amoxicillin
 
----
 
 ## 11. Severity Assessment
 
 * Mild to Moderate (non-life-threatening but clinically significant)
 
----
-
 ## 12. Clinical Management
 
-* Drug discontinued ✔️
-* Antihistamines given for rash ✔️
-* Alternative antibiotic prescribed ✔️
-
----
+* Drug discontinued 
+* Antihistamines given for rash 
+* Alternative antibiotic prescribed 
 
 ## 13. Conclusion
 
@@ -363,17 +376,185 @@ This case demonstrates a **Probable Adverse Drug Reaction to Amoxicillin**, supp
 * Positive dechallenge
 * Lack of alternative causes
 
----
 
 ## 14. Tools Used
 
 * WHO-UMC Causality Scale
 * Naranjo Algorithm
 
----
+
+----------------------------------------------------------------------------------------------------
 
 
----
+## ID Task 4
+
+#  Severity & Case Classification of ADRs
+
+## 1. Objective
+
+Classify **Adverse Drug Reactions (ADRs)** based on:
+
+* **Seriousness** (Regulatory definition)
+* **Severity** (Clinical intensity)
+* **Expectedness** (Known vs unknown reaction)
+
+This simulates real-world **pharmacovigilance case processing**.
+
+
+### 2. Seriousness (Regulatory Criteria)
+
+  A serious adverse drug reaction (ADR) is an unwanted, harmful reaction to a medicine given at normal doses that results in death, is life-threatening, causes a hospital stay, leads to lasting disability, or creates a birth defect
+
+An ADR is **serious** if it results in:
+
+* Death
+* Life-threatening condition
+* Hospitalization / prolonged hospitalization
+* Disability
+* Congenital anomaly
+* Requires intervention to prevent permanent damage
+
+
+### 3.  Severity (Clinical Intensity)
+
+* **Mild** → No treatment required
+* **Moderate** → Requires treatment / affects daily life
+* **Severe** → Life-threatening or requires hospitalization
+
+### 4.  Expectedness
+
+* **Expected** → Listed in drug label/literature
+* **Unexpected** → Not previously known or documented
+
+
+# 5. Case Evaluations
+
+
+
+##  Case 5.1: Amoxicillin – Skin Rash
+
+### 5.1.1. Patient Details
+
+* 30-year-old female
+* Indication: Bacterial infection
+
+### 5.1.2. Reaction
+
+* Maculopapular rash with itching
+
+### 5.1.3. Assessment
+
+* Seriousness: Non-serious
+* Severity: Mild to Moderate
+* Expectedness: Expected (common ADR)
+
+### 5.1.4. Classification
+
+* **Non-serious | Moderate | Expected**
+
+
+## Case 5.2 : Diclofenac – Gastric Bleeding
+
+### 5.2.1. Patient Details
+
+* 55-year-old male
+* Indication: Pain/inflammation
+
+### 5.2.2. Reaction
+
+* Severe gastric bleeding requiring hospitalization
+
+### 5.2.3. Assessment
+
+* Seriousness: Serious (hospitalization)
+* Severity: Severe
+* Expectedness: Expected (NSAID known ADR)
+
+### 5.2.4 Classification
+
+* **Serious | Severe | Expected**
+
+
+##  Case5.3: Carbamazepine – Stevens-Johnson Syndrome (SJS)
+
+### 5.3.1.  Patient Details
+
+* 40-year-old female
+* Indication: Epilepsy
+
+### 5.3.2. Reaction
+
+* Severe skin blistering, mucosal involvement
+
+### 5.3.3.  Assessment
+
+* Seriousness: Serious (life-threatening)
+* Severity: Severe
+* Expectedness: Expected but rare
+
+### 5.3.4. Classification
+
+* **Serious | Severe | Expected (Rare)**
+
+## Case 5.4: New Drug X – Unknown Liver Injury
+
+### 5.4.1. Patient Details
+
+* 50-year-old male
+* Indication: Experimental therapy
+
+### 5.4.2.  Reaction
+
+* Elevated liver enzymes, jaundice
+
+### 5.4.3. Assessment
+
+* Seriousness:  Serious
+* Severity: Severe
+* Expectedness:Unexpected
+
+### 5.4.4. Classification
+
+* **Serious | Severe | Unexpected**
+
+
+# 5.  Summary Table
+
+| Case          | Seriousness | Severity      | Expectedness |
+| ------------- | ----------- | ------------- | ------------ |
+| Amoxicillin   | Non-serious | Mild-Moderate | Expected     |
+| Diclofenac    | Serious     | Severe        | Expected     |
+| Carbamazepine | Serious     | Severe        | Expected     |
+| Drug X        | Serious     | Severe        | Unexpected   |
+
+
+
+## 6. Key Insights
+
+* **Serious ≠ Severe** (Regulatory vs clinical difference)
+* Expected ADRs can still be serious
+* Unexpected ADRs require urgent reporting
+
+
+## 7. Conclusion
+
+Accurate classification of ADRs helps in:
+
+* Regulatory reporting
+* Risk assessment
+* Patient safety monitoring
+  
+## 8. Tools & Guidelines
+
+* ICH E2A Guidelines
+* WHO Pharmacovigilance Standards
+* FDA Safety Reporting Criteria
+----------------------------------------------------------------------------------------------------
+
+## ID Task 5
+
+
+
 
 
 
