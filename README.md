@@ -26,7 +26,7 @@ Analyse patient case scenarios to identify potential **Adverse Drug Reactions (A
 
 | Drug     | Dose | Route | Frequency | Start Date | Indication |
 | Enalapril| 5mg  | Oral  | Once Daily| Day 1      | Hypertension |
-|      |      |       |           |            |            |
+
 
 ---
 
