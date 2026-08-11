@@ -50,7 +50,9 @@ Analyse patient case scenarios to identify potential **Adverse Drug Reactions (A
 
 ### 2.  Medication History
 
-|Thalidomide| 100mg | Oral | Once Daily |  Day 0 | Multiple Myeloma |
+| Drug Name   | Dose   | Route | Frequency | Start Date | Stop Date | Indication  |
+| ----------- | ------ | ----- | ----------| ------ | ------| ------------------- |
+|Thalidomide  | 100mg  | Oral  | Once Daily|  Day 0 | Day 7 | Multiple Myeloma    |
 
 
 
