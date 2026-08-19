@@ -201,7 +201,6 @@ The patient contacted the treating physician. Diclofenac was discontinued and su
 
 The symptoms subsequently improved within approximately 48 hours.
 
----
 
 ## 4. Seriousness Assessment
 
@@ -269,7 +268,7 @@ The temporal relationship between diclofenac administration and the onset of gas
 
 No additional medicinal product is included as a suspected drug in this case.
 
----
+
 
 ## 8. Laboratory / Diagnostic Information
 
@@ -280,7 +279,7 @@ No additional medicinal product is included as a suspected drug in this case.
 | Gastrointestinal endoscopy | Not performed/reported |
 | Other investigations       | Not reported           |
 
----
+
 
 ## 9. Reporter Information
 
