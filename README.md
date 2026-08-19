@@ -144,107 +144,189 @@ Strengthening pharmacovigilance systems
 
 ## ID Task 2
 
-## ADR Reporting & Documentation (Amoxicillin Case)
+## ADR Reporting & Documentation.
 
-## 1. Objective
+## 1. Patient Information
 
-Complete a structured Adverse Drug Reaction (ADR) reporting form based on a clinical case scenario, simulating real-world pharmacovigilance practices in healthcare and pharmaceutical industries.
+| Field                      | Details                                          |
+| -------------------------- | ------------------------------------------------ |
+| Patient Initial            |  RP                                              |
+| Age                        | 45 years                                         |
+| Sex                        | Male                                             |
+| Weight                     | Not reported                                     |
+| Medical History            | No significant gastrointestinal history reported |
+| Relevant Medical Condition | Acute musculoskeletal pain                       |
+| Pregnancy Status           | Not applicable                                   |
 
-## 2. Case Scenario
 
-A 30-year-old female patient was prescribed Amoxicillin for a bacterial throat infection. After 3 days of therapy, she developed a skin rash and itching, which worsened over time. The drug was discontinued, and symptoms resolved within a few days.
+## 2. Suspected Medicinal Product
 
-## ADR Reporting Form 
+| Field            | Details                    |
+| ---------------- | -------------------------- |
+| Generic Name     | Diclofenac                 |
+| Dosage Form      | Tablet                     |
+| Strength         | 50 mg                      |
+| Dose             | 50 mg                      |
+| Route            | Oral                       |
+| Frequency        | Twice daily                |
+| Indication       | Acute musculoskeletal pain |
+| Therapy Start    | Day 0                      |
+| Therapy Stop     | Day 3                      |
+| Batch/Lot Number | Not reported               |
+| Manufacturer     | Not reported               |
 
- ## 1. Patient Information
- 
-Initials: S.K
-Age: 30 years
-Gender: Female
-Weight: 60 kg
-Medical History: No known chronic illness
-Allergy History: Not previously documented
+**Only one suspected medicinal product is assessed in this case: Diclofenac tablet.**
 
-## 2.  Suspected Drug Details
 
-Drug Name: Amoxicillin
-Dose: 500 mg
-Route: Oral
-Frequency: Three times daily
-Indication: Bacterial throat infection
-Therapy Start Date: Day 0
-Therapy Stop Date: Day 3
+## 3. Adverse Drug Reaction
 
-## 3.  Adverse Event Details
-Reaction: Skin rash with itching (maculopapular rash)
-Date of Onset: Day 3
-Seriousness: Non-serious
-Outcome: Recovered after discontinuation
-Description: Red, itchy rash appeared on arms and torso, causing discomfort
-## 4.  Timeline
+### Reported Reaction
 
-| Event             | Date |
-| ----------------- | -----|
-|Drug Started	      | Day 0|
-|Symptoms Started	  | Day 3|
-|Drug Stopped	      | Day 3|
-|Symptoms Resolved	| Day 6|
+The patient developed:
 
-## 5.  Dechallenge / Rechallenge
+* Epigastric discomfort
+* Upper abdominal burning sensation
+* Nausea
+* Reduced appetite
 
-* Dechallenge:  Positive (rash subsided after stopping drug)
-* Rechallenge:  Not performed (risk of recurrence)
+### Time to Onset
 
-## 6.  Concomitant Drugs
+Approximately **3 days after initiation of diclofenac therapy**.
 
-Paracetamol (for fever)
+### Clinical Description
 
-## 7.  Relevant Tests
+The patient was receiving diclofenac 50 mg orally twice daily for acute musculoskeletal pain. After approximately three days of treatment, the patient developed epigastric discomfort accompanied by an upper abdominal burning sensation, nausea and reduced appetite.
 
-* No lab abnormalities.
-* Clinical diagnosis of drug-induced rash.
+The patient contacted the treating physician. Diclofenac was discontinued and supportive management was provided.
 
-## 8.  Causality Assessment
- 
-* WHO-UMC Scale: Probable
-* Naranjo Score: 7 (Probable ADR)
+The symptoms subsequently improved within approximately 48 hours.
 
-## 9.  Suspected Drug Justification
- 
-* Temporal relationship between drug intake and reaction
-* Known ADR of beta-lactam antibiotics (hypersensitivity rash)
-* Symptom resolution after discontinuation
-* No alternative explanation
+---
 
-## 10.  Severity Assessment
+## 4. Seriousness Assessment
 
-Mild to Moderate (not life-threatening but required intervention)
+| Seriousness Criterion             | Assessment      |
+| --------------------------------- | --------------- |
+| Death                             | No              |
+| Life-threatening                  | No              |
+| Hospitalization                   | No              |
+| Prolonged hospitalization         | No              |
+| Persistent/significant disability | No              |
+| Congenital anomaly                | No              |
+| Other medically important event   | No              |
+| **Overall Classification**        | **Non-serious** |
 
-## 11.  Management
-Drug discontinued 
-Alternative drug: Azithromycin (if needed)
-Treatment: Antihistamines for rash relief
+### Reason
 
-## 12.  Reporter Details
-Reporter Type: Clinical Research Trainee
-Institution: Pharmacovigilance Practice Case Study
-Country: India
+The patient did not require hospitalization and no life-threatening complication, disability, gastrointestinal bleeding or death was reported.
 
- ## 13.  Final Assessment
- 
-This case represents a probable ADR due to Amoxicillin, supported by:
 
-* Strong temporal association
-* Known hypersensitivity reaction
-* Positive dechallenge
 
-## 14.  Conclusion
+## 5. Action Taken With Suspected Drug
 
-This structured ADR documentation highlights the importance of:
+**Action:** Diclofenac discontinued.
 
-* Early detection of drug-related adverse effects
-* Accurate reporting in pharmacovigilance systems
-* Ensuring patient safety in clinical practice
+### Dechallenge
+
+**Positive**
+
+The patient's gastrointestinal symptoms improved after diclofenac was withdrawn.
+
+### Rechallenge
+
+**Not performed**
+
+The drug was not restarted after the reaction.
+
+
+
+## 6. Outcome
+
+**Outcome: Recovered / Improving**
+
+The reported symptoms substantially improved approximately 48 hours after discontinuation of diclofenac.
+
+
+### Rationale
+
+| Causality Factor            | Assessment                    |
+| --------------------------- | ----------------------------- |
+| Temporal relationship       | Appropriate                   |
+| Known association with drug | Compatible                    |
+| Dechallenge                 | Positive                      |
+| Rechallenge                 | Not performed                 |
+| Alternative explanation     | No alternative cause reported |
+| Overall relationship        | Probable/Likely               |
+
+### Final Assessment
+
+The temporal relationship between diclofenac administration and the onset of gastrointestinal symptoms, together with improvement after withdrawal, supports a **probable/likely causal relationship**.
+
+
+## 7. Concomitant Medication
+
+**None reported.**
+
+No additional medicinal product is included as a suspected drug in this case.
+
+---
+
+## 8. Laboratory / Diagnostic Information
+
+| Investigation              | Result                 |
+| -------------------------- | ---------------------- |
+| Laboratory investigations  | Not reported           |
+| Diagnostic imaging         | Not reported           |
+| Gastrointestinal endoscopy | Not performed/reported |
+| Other investigations       | Not reported           |
+
+---
+
+## 9. Reporter Information
+
+| Field               | Details                 |
+| ------------------- | ----------------------- |
+| Reporter Type       | Healthcare Professional |
+| Qualification       | Physician               |
+| Reporter Name       | Ayyappan P G            |
+| Contact Information | pgayyappan03@gmail.com  |
+| Country             | India                   |
+| Report Source       | Spontaneous report      |
+
+
+# 13. Medical Description.
+
+A 45-year-old male patient was treated with diclofenac 50 mg orally twice daily for acute musculoskeletal pain. Approximately three days after initiation of treatment, the patient developed epigastric discomfort, upper abdominal burning sensation, nausea and reduced appetite.
+
+The patient contacted the treating physician, and diclofenac was discontinued. Supportive management was provided. Following withdrawal of diclofenac, the patient's symptoms substantially improved within approximately 48 hours.
+
+There was no reported hospitalization, life-threatening event, persistent disability, gastrointestinal bleeding or death.
+
+Rechallenge with diclofenac was not performed.
+
+Based on the temporal relationship between drug exposure and reaction onset, the known association of gastrointestinal symptoms with diclofenac therapy, and improvement following drug withdrawal, the causal relationship was assessed as **probable/likely**.
+
+The reported reaction was classified as **non-serious** and **expected** based on the known safety profile of diclofenac.
+
+
+# 14. Final ADR Assessment
+
+| Parameter          | Final Assessment                                                   |
+| ------------------ | ------------------------------------------------------------------ |
+| **Suspected Drug** | Diclofenac 50 mg Tablet                                            |
+| **Dose**           | 50 mg                                                              |
+| **Route**          | Oral                                                               |
+| **Frequency**      | Twice daily                                                        |
+| **Indication**     | Acute musculoskeletal pain                                         |
+| **ADR**            | Epigastric discomfort, abdominal burning, nausea, reduced appetite |
+| **Seriousness**    | Non-serious                                                        |
+| **Expectedness**   | Expected                                                           |
+| **Dechallenge**    | Positive                                                           |
+| **Rechallenge**    | Not performed                                                      |
+| **Causality**      | Probable/Likely                                                    |
+| **Outcome**        | Recovered/Improved                                                 |
+| **Reporter**       | Healthcare Professional                                            |
+| **Case Type**      | Spontaneous ADR                                                    |
 ----------------------------------------------------------------------------------------------------
 
 
